@@ -1,5 +1,8 @@
 # Speech to Text
 This project will convert an audio file .mp4 to text on a Windows computer.
+Google Documentation
+    - [Recognize](https://cloud.google.com/sdk/gcloud/reference/ml/speech/recognize)
+    - [Recognize Long Running](https://cloud.google.com/sdk/gcloud/reference/ml/speech/recognize-long-running)
 
 #### Steps
 1) Convert .mp4 (or other audio file) to mono channel FLAC (.flac) using [VLC Media Player](https://www.videolan.org/vlc/index.html)
