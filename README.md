@@ -5,7 +5,7 @@ Google Documentation
 - [Recognize](https://cloud.google.com/sdk/gcloud/reference/ml/speech/recognize)
 - [Recognize Long Running](https://cloud.google.com/sdk/gcloud/reference/ml/speech/recognize-long-running)
 
-### Steps
+## Steps
 1) Convert .mp4 (or other audio file) to mono channel FLAC (.flac) using [VLC Media Player](https://www.videolan.org/vlc/index.html)
 2) Upload output file to [Google Cloud Storage](https://console.cloud.google.com/storage/browser?project=test-project-200421&folder&organizationId)
 3) Using [Google Cloud SDK Shell](https://cloud.google.com/sdk/docs/quickstart-windows)
